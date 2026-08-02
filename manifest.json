@@ -1,0 +1,15 @@
+{
+  "name": "My Shifts Pro",
+  "short_name": "MyShifts",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#F6B394",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
